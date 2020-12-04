@@ -1,0 +1,101 @@
+Index,Track URI,Artist Name,Track Name,Release Date,Danceability,Energy,Key,Loudness,Mode,Speechiness,Accousticness,Instrumentalness,Liveness,Valence,Tempo,popularity
+1,spotify:track:0t1kP63rueHleOhQkYSXFY,BTS,Dynamite,2020-08-28,0.746,0.765,6,-4.41,0,0.0993,0.0112,0,0.0936,0.737,114.044,97
+2,spotify:track:09IStsImFySgyp0pIQdqAc,Zedd,The Middle,2018-01-23,0.753,0.657,7,-3.061,1,0.0449,0.171,0,0.112,0.437,107.01,82
+3,spotify:track:6wXgnhpmOPEJ7cUweSyy2B,Diplo,Dance with Me (feat. Thomas Rhett & Young Thug),2020-05-27,0.73,0.792,6,-5.33,0,0.13,0.0264,0,0.101,0.745,99.039,76
+4,spotify:track:0bRh7pc1nfIv2edfcIUlKh,Nelly Furtado,Promiscuous,2010-01-01,0.807,0.97,10,-6.056,0,0.0477,0.0536,6.6e-05,0.149,0.876,114.297,56
+5,spotify:track:5nujrmhLynf4yMoMtj8AQF,Dua Lipa,Levitating (feat. DaBaby),2020-03-27,0.702,0.825,6,-3.787,0,0.0601,0.00883,0,0.0674,0.915,102.977,79
+6,spotify:track:12tUCBq7V9qCF8qGOLpcnu,Maroon 5,Love Somebody,2012-01-01,0.675,0.79,1,-6.295,1,0.0369,0.129,0,0.121,0.423,120.015,57
+7,spotify:track:7iNIg7XDEaYECfWD5dJ9Va,Justin Bieber,Friends (with BloodPop®),2017-08-17,0.743,0.735,8,-5.337,1,0.0382,0.00389,0,0.304,0.631,104.979,72
+8,spotify:track:1sgDyuLooyvEML4oHspNza,Kygo,Lose Somebody,2020-05-29,0.58,0.586,1,-6.883,1,0.0357,0.344,0,0.0755,0.507,147.988,76
+9,spotify:track:59qrUpoplZxbIZxk6X0Bm3,Jason Derulo,Take You Dancing,2020-07-22,0.789,0.711,2,-4.248,1,0.041,0.0332,0,0.0876,0.753,112.985,92
+10,spotify:track:4vjpLMyL3ZO6aphdYr8XYw,Lauv,i'm so tired...,2020-03-06,0.599,0.733,11,-7.058,1,0.203,0.176,0,0.242,0.534,102.211,81
+11,spotify:track:3tjFYV6RSFtuktYl3ZtYcq,24kGoldn,Mood (feat. iann dior),2020-07-24,0.7,0.722,7,-3.558,0,0.0369,0.221,0,0.272,0.756,90.989,99
+12,spotify:track:2MbdDtCv5LUVjYy9RuGTgC,Jack Harlow,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",2020-06-24,0.904,0.723,11,-5.224,0,0.26,0.0631,0,0.185,0.835,145.013,88
+13,spotify:track:1IIKrJVP1C9N7iPtG6eOsK,Chris Brown,Go Crazy,2020-05-08,0.755,0.578,0,-8.932,0,0.145,0.316,0,0.25,0.581,94.148,88
+14,spotify:track:6RRNNciQGZEXnqk8SQ9yv5,Taylor Swift,You Need To Calm Down,2019-08-23,0.771,0.671,2,-5.617,1,0.0553,0.00929,0,0.0637,0.714,85.026,80
+15,spotify:track:1InCpEliLCkWHOBdXW7XSx,Ava Max,Kings & Queens,2020-09-18,0.637,0.69,1,-4.057,0,0.0405,0.00786,0,0.124,0.457,129.857,87
+16,spotify:track:3H7ihDc1dqLriiWXwsc2po,Topic,Breaking Me,2019-12-19,0.789,0.72,8,-5.652,0,0.218,0.223,0,0.129,0.664,122.031,91
+17,spotify:track:1xQ6trAsedVPCdbtDAmk0c,Jawsh 685,Savage Love (Laxed - Siren Beat),2020-06-11,0.767,0.481,0,-8.52,0,0.0803,0.234,0,0.269,0.761,150.076,91
+18,spotify:track:5f1joOtoMeyppIcJGZQvqJ,Kane Brown,Be Like That - feat. Swae Lee & Khalid,2020-07-10,0.727,0.626,7,-8.415,1,0.0726,0.0469,2.58e-05,0.126,0.322,86.97,86
+19,spotify:track:24ySl2hOPGCDcxBxFIqWBu,Lady Gaga,Rain On Me (with Ariana Grande),2020-05-22,0.672,0.855,9,-3.764,1,0.0397,0.021,0,0.323,0.646,123.056,85
+20,spotify:track:5Gj1wG8b12VQdEd3hUuSwo,Kygo,Freedom,2020-04-17,0.715,0.635,7,-6.591,1,0.0791,0.127,0,0.0862,0.39,112.887,77
+21,spotify:track:1rfofaqEpACxVEHIZBJe6W,Camila Cabello,Havana (feat. Young Thug),2018-01-12,0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,82
+22,spotify:track:1WSGTYKLEpKfNQYYW5Oymt,benny blanco,"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",2019-02-28,0.541,0.468,10,-4.039,0,0.362,0.404,3.65e-06,0.358,0.69,95.266,72
+23,spotify:track:4ZTTUAjJCd4NMZmIU7RB4c,Alesso,Midnight (feat. Liam Payne),2020-04-08,0.587,0.648,11,-6.927,0,0.0439,0.0561,0,0.115,0.281,144.028,79
+24,spotify:track:2ez6qvOTHKeI3ss80NGqnI,SHAED,Trampoline (with ZAYN),2019-12-27,0.619,0.459,7,-5.782,0,0.0334,0.56,0,0.137,0.498,126.803,67
+25,spotify:track:4nK5YrxbMGZstTLbvj6Gxw,BENEE,Supalonely,2019-11-15,0.863,0.631,7,-4.689,1,0.0534,0.305,3.04e-05,0.123,0.817,128.977,84
+26,spotify:track:0TrPqhAMoaKUFLR7iYDokf,Khalid,Know Your Worth,2020-02-04,0.79,0.694,9,-7.726,0,0.0708,0.145,0.00252,0.281,0.508,103.007,81
+27,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,2019-12-13,0.548,0.816,0,-4.209,1,0.0465,0.122,0,0.335,0.557,95.39,94
+28,spotify:track:3Dv1eDb0MEgF93GpLXlucZ,Doja Cat,Say So,2019-11-07,0.787,0.673,11,-4.577,0,0.158,0.256,3.57e-06,0.0904,0.786,110.962,86
+29,spotify:track:2Fxmhks0bxGSBdJ92vM42m,Billie Eilish,bad guy,2019-03-29,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,88
+30,spotify:track:6v3KW9xbzN5yKLt9YKDYA2,Shawn Mendes,Señorita,2019-06-19,0.759,0.548,9,-6.049,0,0.029,0.0392,0,0.0828,0.749,116.967,82
+31,spotify:track:12GEpg2XOPyqk03JZEZnJs,Kygo,It Ain’t Me (with Selena Gomez),2017-02-17,0.64,0.533,0,-6.596,1,0.0706,0.119,0,0.0864,0.515,99.968,66
+32,spotify:track:2iUXsYOEPhVqEBwsqP70rE,5 Seconds of Summer,Youngblood,2018-06-15,0.596,0.854,7,-5.114,0,0.463,0.0169,0,0.124,0.152,120.274,82
+33,spotify:track:0azC730Exh71aQlOt9Zj3y,Calvin Harris,This Is What You Came For (feat. Rihanna),2016-04-29,0.63,0.928,9,-2.787,0,0.0331,0.199,0.124,0.148,0.465,123.963,79
+34,spotify:track:696DnlkuDOXcMAnKlTgXXK,Arizona Zervas,ROXANNE,2019-10-10,0.621,0.601,6,-5.616,0,0.148,0.0522,0,0.46,0.457,116.735,87
+35,spotify:track:3jjujdWJ72nww5eGnfs2E7,Harry Styles,Adore You,2019-12-13,0.676,0.771,8,-3.675,1,0.0483,0.0237,7e-06,0.102,0.569,99.048,87
+36,spotify:track:5A3fPy30SN2wuzrahpcxvV,Andy Grammer,"Don't Give Up On Me - (From ""Five Feet Apart"")",2019-07-26,0.641,0.537,0,-5.452,0,0.0282,0.0875,9.05e-06,0.115,0.0681,112.864,80
+37,spotify:track:35MKhw2YBKApmD7fAnPERC,Galantis,Faith (with Dolly Parton) [feat. Mr. Probz],2019-10-25,0.547,0.795,8,-3.721,1,0.0489,0.145,0,0.11,0.723,118.118,69
+38,spotify:track:2kJu14V7hbZw3I4K8L8SXb,Lady Gaga,Stupid Love,2020-02-28,0.676,0.815,8,-4.294,1,0.0625,0.00146,0.00041,0.275,0.796,117.973,41
+39,spotify:track:4w8niZpiMy6qz1mntFA5uM,DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",2018-09-28,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,79
+40,spotify:track:6wJYhPfqk3KGhHRG76WzOh,Lil Mosey,Blueberry Faygo,2020-02-07,0.774,0.554,0,-7.909,1,0.0383,0.207,0,0.132,0.349,99.034,84
+41,spotify:track:2B7oyUTr2pCsUqPy4bgiYB,Lauv,"fuck, i'm lonely - from “13 Reasons Why: Season 3”",2020-01-16,0.806,0.558,9,-6.46,1,0.0683,0.482,0,0.0618,0.678,95.016,1
+42,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,2017-03-03,0.825,0.652,1,-3.183,0,0.0802,0.581,0,0.0931,0.931,95.977,85
+43,spotify:track:364dI1bYnvamSnBJ8JcNzN,Justin Bieber,Intentions,2020-02-07,0.811,0.553,9,-6.644,1,0.0552,0.317,0,0.105,0.86,148.014,82
+44,spotify:track:127QTOFJsJQp5LbJbu3A1y,Drake,Toosie Slide,2020-04-03,0.834,0.454,1,-9.75,0,0.201,0.321,6.15e-06,0.114,0.837,81.618,84
+45,spotify:track:3e9HZxeyfWwjeyPAMmWSSQ,Ariana Grande,"thank u, next",2019-02-08,0.717,0.653,1,-5.634,1,0.0658,0.229,0,0.101,0.412,106.966,85
+46,spotify:track:5v4GgrXPMghOnBBLmveLac,Megan Thee Stallion,Savage Remix (feat. Beyoncé),2020-04-29,0.822,0.743,10,-4.772,0,0.28,0.016,0,0.127,0.636,84.459,82
+47,spotify:track:11VApNQCWLJdzxWrlmwzUa,Doja Cat,Say So (feat. Nicki Minaj),2020-05-01,0.856,0.641,11,-4.64,0,0.204,0.119,4.97e-06,0.427,0.745,111.004,76
+48,spotify:track:3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,2020-03-27,0.793,0.793,11,-4.521,0,0.083,0.0123,0,0.0951,0.679,123.95,84
+49,spotify:track:1Jo0Zg7XlrA6z0mFTZVdkn,Rihanna,Don't Stop The Music,2007-01-01,0.835,0.669,6,-5.582,0,0.0643,0.0336,6.92e-05,0.0535,0.542,122.668,63
+50,spotify:track:2Yer0p7uB2lVBUAtANuuQp,Social House,Magic In The Hamptons (feat. Lil Yachty),2018-06-08,0.769,0.479,1,-5.339,1,0.0385,0.66,0,0.0914,0.803,96.051,80
+51,spotify:track:62aP9fBQKYKxi7PDXwcUAS,Surf Mesa,ily (i love you baby) (feat. Emilee),2019-11-26,0.674,0.774,11,-7.567,0,0.0892,0.0686,0.00188,0.393,0.33,112.05,88
+52,spotify:track:33YmfTNoLnbkRnOjf7YIVm,Major Lazer,Lean On (feat. MØ & DJ Snake),2015-06-01,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,61
+53,spotify:track:1Cv1YLb4q0RzL6pybtaMLo,Surfaces,Sunday Best,2019-01-06,0.878,0.525,5,-6.832,1,0.0578,0.183,0,0.0714,0.694,112.022,85
+54,spotify:track:2rb5MvYT7ZIxbKW5hfcHx8,J Balvin,Mi Gente,2017-06-30,0.543,0.677,11,-4.915,0,0.0993,0.0148,6.21e-06,0.13,0.294,103.809,2
+55,spotify:track:2zoNNEAyPK2OGDfajardlY,Flume,Rushing Back,2019-09-25,0.574,0.612,0,-4.741,1,0.0781,0.357,0,0.158,0.368,136.046,71
+56,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,The Chainsmokers,Closer,2016-07-29,0.748,0.524,8,-5.599,1,0.0338,0.414,0,0.111,0.661,95.01,84
+57,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Post Malone,Better Now,2018-04-27,0.68,0.578,10,-5.804,1,0.04,0.331,0,0.135,0.341,145.038,84
+58,spotify:track:07Oz5StQ7GRoygNLaXs2pd,Lizzo,Good as Hell (feat. Ariana Grande) - Remix,2019-10-25,0.668,0.892,5,-3.001,0,0.0645,0.298,0,0.735,0.478,95.927,77
+59,spotify:track:0k2GOhqsrxDTAbFFSdNJjT,Sean Paul,Temperature,2005-09-26,0.951,0.6,0,-4.675,0,0.0685,0.106,0,0.0712,0.822,125.04,77
+60,spotify:track:1WkMMavIMc4JZ8cfMmxHkI,Justin Timberlake,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",2016-09-23,0.669,0.832,0,-5.72,1,0.0682,0.0106,0,0.0968,0.7,113.035,73
+61,spotify:track:0Rx0DJI556Ix5gBny6EWmn,Bazzi,Paradise,2019-08-09,0.844,0.644,11,-6.273,0,0.0479,0.0828,0,0.113,0.591,122.061,78
+62,spotify:track:76hfruVvmfQbw0eYn1nmeC,DNCE,Cake By The Ocean,2016-11-18,0.774,0.753,4,-5.446,0,0.0517,0.152,0,0.0371,0.896,119.002,79
+63,spotify:track:0sf12qNH5qcw8qpgymFOqD,The Weeknd,Blinding Lights,2019-11-29,0.513,0.796,1,-4.075,1,0.0629,0.00147,0.000209,0.0938,0.345,171.017,30
+64,spotify:track:0FDzzruyVECATHXKHFs9eJ,Coldplay,A Sky Full of Stars,2014-05-19,0.545,0.675,6,-6.474,1,0.0279,0.00617,0.00197,0.209,0.162,124.97,78
+65,spotify:track:3KkXRkHbMCARz0aVfEt68P,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2018-12-14,0.76,0.479,2,-5.574,1,0.0466,0.556,0,0.0703,0.913,89.911,85
+66,spotify:track:6oJ6le65B3SEqPwMRNXWjY,Kygo,Higher Love,2019-06-28,0.693,0.678,8,-7.159,1,0.0324,0.0154,6.05e-06,0.101,0.404,103.952,82
+67,spotify:track:2ekn2ttSfGqwhhate0LSR0,Dua Lipa,New Rules,2017-06-02,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,80
+68,spotify:track:1zi7xx7UVEFkmKfv06H8x0,Drake,One Dance,2016-05-06,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,81
+69,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,2016-11-17,0.853,0.56,1,-4.961,1,0.0406,0.013,0,0.0944,0.86,134.066,81
+70,spotify:track:0k664IuFwVP557Gnx7RhIl,Lizzo,Juice,2019-04-19,0.767,0.889,7,-2.988,1,0.0963,0.00611,0,0.402,0.843,119.93,77
+71,spotify:track:4hPpVbbakQNv8YTHYaOJP4,Marshmello,One Thing Right,2019-06-21,0.659,0.623,4,-2.253,1,0.0451,0.0667,0,0.582,0.439,88.042,78
+72,spotify:track:5bcTCxgc7xVfSaMV3RuVke,Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",2017-06-30,0.893,0.745,11,-3.105,0,0.0571,0.0642,0,0.0943,0.872,101.018,75
+73,spotify:track:51Fjme0JiitpyXKuyQiCDo,Y2K,Lalala,2019-06-28,0.843,0.391,2,-7.899,1,0.0845,0.181,0,0.137,0.496,129.972,81
+74,spotify:track:7fa9MBXhVfQ8P8Df9OEbD8,Maroon 5,Girls Like You (feat. Cardi B),2018-06-15,0.851,0.541,0,-6.825,1,0.0505,0.568,0,0.13,0.448,124.959,76
+75,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,2017-06-16,0.801,0.795,1,-5.115,0,0.0504,0.0417,0.000113,0.0717,0.754,79.028,78
+76,spotify:track:6RUKPb4LETWmmr3iAEQktW,The Chainsmokers,Something Just Like This,2017-04-07,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,83
+77,spotify:track:1rqqCSm0Qe4I9rUvWncaom,Panic! At The Disco,High Hopes,2018-06-22,0.579,0.904,5,-2.729,1,0.0618,0.193,0,0.064,0.681,82.014,84
+78,spotify:track:5WQ1hIc5d2EVbRQ8qsj8Uh,OutKast,Hey Ya! - Radio Mix / Club Mix,2003-09-23,0.719,0.967,0,-2.435,1,0.0552,0.0588,0.000249,0.206,0.964,79.505,4
+79,spotify:track:22VdIZQfgXJea34mQxlt81,The Weeknd,Can't Feel My Face,2015-08-28,0.705,0.769,9,-5.526,0,0.0425,0.113,0,0.105,0.583,107.949,79
+80,spotify:track:5PYQUBXc7NYeI1obMKSJK0,Katy Perry,Never Really Over,2019-05-31,0.77,0.882,8,-4.792,1,0.0602,0.194,0,0.316,0.385,99.991,78
+81,spotify:track:5b88tNINg4Q4nrRbrCXUmg,Pharrell Williams,"Happy - From ""Despicable Me 2""",2014-03-03,0.647,0.822,5,-4.662,0,0.183,0.219,0,0.0908,0.962,160.019,12
+82,spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,Sam Smith,Dancing With A Stranger (with Normani),2019-01-11,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,83
+83,spotify:track:21RzyxY3EFaxVy6K4RqaU9,Loud Luxury,Body,2017-10-27,0.752,0.764,1,-4.399,1,0.038,0.0476,9.44e-05,0.0543,0.582,121.958,76
+84,spotify:track:4QNpBfC0zvjKqPJcyqBy9W,Pitbull,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",2011-06-17,0.671,0.939,8,-3.206,1,0.161,0.192,0,0.298,0.529,129.023,79
+85,spotify:track:1rW6UUZRQWW34j4zCQDkfX,Jessie J,Bang Bang,2014-10-13,0.706,0.783,0,-3.441,0,0.1,0.315,0,0.373,0.739,150.045,41
+86,spotify:track:58q2HKrzhC3ozto2nDdN4z,Cardi B,I Like It,2018-04-06,0.816,0.726,5,-3.998,0,0.129,0.099,0,0.372,0.65,136.048,82
+87,spotify:track:5ChkMS8OtdzJeqyybCc9R5,Michael Jackson,Billie Jean,1982-11-30,0.92,0.654,11,-3.051,0,0.0401,0.0236,0.0158,0.0359,0.847,117.046,83
+88,spotify:track:09CtPGIpYB4BrO8qb1RGsF,Justin Bieber,Sorry,2015-11-13,0.654,0.76,0,-3.669,0,0.045,0.0797,0,0.299,0.41,99.945,82
+89,spotify:track:0d2iYfpKoM0QCKvcLCkBao,benny blanco,Eastside (with Halsey & Khalid),2018-07-12,0.56,0.68,6,-7.648,0,0.321,0.555,0,0.116,0.319,89.391,79
+90,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,Drake,In My Feelings,2018-06-29,0.835,0.626,1,-5.833,1,0.125,0.0589,6e-05,0.396,0.35,91.03,79
+91,spotify:track:1NpW5kyvO4XrNJ3rnfcNy3,Flo Rida,Wild Ones (feat. Sia),2012-06-22,0.608,0.86,5,-5.324,0,0.0554,0.0991,0,0.262,0.437,127.075,76
+92,spotify:track:25sgk305KZfyuqVBQIahim,Ava Max,Sweet but Psycho,2018-08-17,0.719,0.704,1,-4.724,1,0.0476,0.0691,0,0.166,0.628,133.002,62
+93,spotify:track:7ef4DlsgrMEH11cDZd32M6,Calvin Harris,One Kiss (with Dua Lipa),2018-04-06,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,82
+94,spotify:track:7oGZAicScQt96OAW4AruYy,Jason Derulo,Want to Want Me,2015-05-29,0.775,0.68,0,-5.508,0,0.0629,0.00906,0,0.109,0.656,114.025,76
+95,spotify:track:2tUBqZG2AbRi7Q0BIrVrEj,Whitney Houston,I Wanna Dance with Somebody (Who Loves Me),1987-06-02,0.709,0.824,1,-8.824,1,0.0453,0.207,0.000307,0.0888,0.867,118.818,82
+96,spotify:track:24Yi9hE78yPEbZ4kxyoXAI,SAINt JHN,Roses - Imanbek Remix,2019-10-09,0.77,0.724,8,-5.484,1,0.0495,0.0167,0.0107,0.353,0.898,121.975,90
+97,spotify:track:1NDxZ7cFAo481dtYWdrUnR,Maggie Lindemann,Pretty Girl - Cheat Codes X CADE Remix,2017-03-02,0.703,0.868,7,-4.661,0,0.0291,0.15,0.132,0.104,0.733,121.03,77
+98,spotify:track:3KwwE4sgCzMaKWq6QBebmX,Meghan Trainor,Me Too,2017-05-12,0.934,0.694,11,-5.849,0,0.101,0.0962,1.2e-06,0.478,0.835,123.829,72
+99,spotify:track:7aiClxsDWFRQ0Kzk5KI5ku,blackbear,hot girl bummer,2019-08-23,0.778,0.559,6,-7.109,0,0.0776,0.128,0,0.399,0.678,129.989,53
+100,spotify:track:2XU0oxnq2qxCpomAAuJY8K,Tones And I,Dance Monkey,2019-10-17,0.824,0.588,6,-6.4,0,0.0924,0.692,0.000104,0.149,0.513,98.027,89

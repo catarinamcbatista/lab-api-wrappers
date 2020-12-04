@@ -1,0 +1,81 @@
+Index,Track URI,Artist Name,Track Name,Release Date,Danceability,Energy,Key,Loudness,Mode,Speechiness,Accousticness,Instrumentalness,Liveness,Valence,Tempo,popularity
+1,spotify:track:7HmnJHfs0BkFzX4x8j0hkl,KEVVO,Billetes Azules (with J Balvin),2020-10-16,0.856,0.721,7,-4.928,1,0.108,0.132,0.00471,0.182,0.642,94.991,74
+2,spotify:track:1Q5QDlgl9zAQ4a2WeM4gQE,Wisin & Yandel,Paleta,2005-01-01,0.863,0.842,11,-4.904,1,0.168,0.123,0,0.254,0.721,95.0,49
+3,spotify:track:5zj8WNkBrEzlI5FKeYV4ol,Sech,La Luz,2020-10-31,0.665,0.697,9,-4.819,0,0.154,0.427,1.39e-05,0.599,0.556,94.053,86
+4,spotify:track:1kfXlrtUI6cQwzgFohuzte,GABIFUEGO,Perreo,2020-10-02,0.811,0.522,11,-11.241,1,0.0776,0.0445,0.00237,0.0698,0.793,94.981,34
+5,spotify:track:2cpteAYHcd4cjSxAeCkA52,Bad Bunny,Yo Perreo Sola - Remix,2020-10-14,0.845,0.733,11,-6.037,1,0.0581,0.0147,1.57e-05,0.357,0.394,97.01,76
+6,spotify:track:44r2HY8ZnKa5gJRqnKw7Sq,Arcangel,Payaso,2020-10-16,0.897,0.803,5,-4.669,0,0.151,0.252,0,0.339,0.78,94.003,65
+7,spotify:track:1mGxiXPxKIuItW4D2eVgjI,LASTMONDAY,Susurro Riddim,2020-09-18,0.744,0.82,8,-5.203,0,0.229,0.00301,0.337,0.107,0.742,190.104,68
+8,spotify:track:3da1bOCZSA1in4skGwWgMk,Brytiago,Borracho,2020-07-17,0.819,0.699,2,-4.124,0,0.169,0.473,0,0.454,0.664,92.023,50
+9,spotify:track:2jS8Sl8601rtCf62eoblLW,Diego Raposo,perrrrreo,2020-08-18,0.79,0.493,7,-7.409,1,0.142,0.108,0.0235,0.0879,0.641,93.999,36
+10,spotify:track:3iRMZq3iIaIBW5bH4VgWtM,Luny Tunes,Aventura,2003-08-26,0.858,0.741,9,-7.204,0,0.124,0.0196,2.04e-05,0.0974,0.823,93.001,58
+11,spotify:track:3jbT1Y5MoPwEIpZndDDwVq,Tainy,Adicto (with Anuel AA & Ozuna),2019-08-22,0.734,0.836,10,-4.803,0,0.0735,0.017,1.64e-05,0.179,0.623,80.002,80
+12,spotify:track:1kQqiC1rS1FiuVpeBKN0QN,Wisin & Yandel,Rakata,2005-01-01,0.872,0.786,1,-5.473,1,0.142,0.0348,0,0.0776,0.722,96.002,10
+13,spotify:track:2jC7DWMDXMhv3wv3XajO0J,Arcangel,Ven Pegate,2005,0.847,0.727,2,-8.168,1,0.108,0.173,9.55e-05,0.112,0.7,94.997,49
+14,spotify:track:4VKI2yBkCE4mWhFBwZp0LU,Ivy Queen,Quiero Saber,2004-01-27,0.846,0.905,6,-3.686,0,0.0588,0.139,1.01e-05,0.228,0.843,95.018,60
+15,spotify:track:5DoLhdU27owX1NMrKLUbUl,Super Yei,"Lean (feat. Towy, Osquel, Beltito & Sammy & Falsetto)",2017-03-31,0.863,0.669,6,-5.952,0,0.282,0.111,0,0.0569,0.947,164.062,86
+16,spotify:track:3oCghu20Kto5Xcu8Pg0cit,Rauw Alejandro,"Elegí (feat. Farruko, Anuel AA, Sech, Dímelo Flow & Justin Quiles) - Remix",2020-08-28,0.788,0.629,0,-4.727,1,0.0883,0.16,0.000828,0.0598,0.738,172.044,75
+17,spotify:track:6jhuprDoUF22u8UJLu0qth,XAXO,BEBE,2020-08-28,0.64,0.821,7,-3.852,1,0.0445,0.0222,0,0.239,0.657,169.993,49
+18,spotify:track:64cYicLM2M9kt0qqivHvte,Toby Letra,PrenDT,2020-07-17,0.725,0.79,5,-5.827,0,0.237,0.622,1.25e-05,0.14,0.722,89.905,31
+19,spotify:track:4Vpwf76uBHswSRhhpg0llh,Ozuna,Gistro Amarillo,2020-07-23,0.798,0.846,7,-3.761,0,0.178,0.214,0,0.0906,0.76,92.064,66
+20,spotify:track:2up69Rho7swRdP1MHqzX3n,Wisin & Yandel,Pam Pam,2013-01-01,0.874,0.69,10,-6.373,1,0.114,0.121,0,0.249,0.735,95.025,66
+21,spotify:track:7xJeg4TFZBwoK63G98YRaA,Nakary,Sin Tabú,2020-07-10,0.721,0.784,2,-4.797,1,0.275,0.0813,9.39e-06,0.0855,0.585,179.954,65
+22,spotify:track:5qpGCIBMQX9F86mcAClaOF,Young Cister,LA CAMITA,2020-02-07,0.743,0.858,7,-3.675,1,0.136,0.503,0.000393,0.0855,0.525,184.087,49
+23,spotify:track:5W1Wuga2pBAjKORpP3k0T2,LATENIGHTJIGGY,She Say (feat. Eladio Carrion),2020-07-10,0.72,0.693,5,-6.932,0,0.0606,0.206,0,0.124,0.588,91.982,45
+24,spotify:track:47ZS1OjnJpJVfGN9yHXfMn,Alex Rose,Toda Remix - Remix,2018-06-01,0.512,0.451,5,-7.222,0,0.131,0.161,0,0.0672,0.368,80.04,76
+25,spotify:track:3gupdUJxqmwh2pJhLJm51Z,D. Krugga,P-Perreo,2020-06-26,0.813,0.727,2,-5.25,1,0.0609,0.0292,0,0.0988,0.273,95.005,38
+26,spotify:track:4iKznA0Zia7dNQxZ6574uC,Feid,PORFA - Remix,2020-06-26,0.792,0.736,6,-4.764,0,0.0815,0.0939,1.06e-06,0.075,0.69,167.915,74
+27,spotify:track:3gD4J3RUHy4OUuZ3qAiaiG,Ozuna,Caramelo,2020-06-11,0.728,0.806,6,-3.766,1,0.0623,0.0531,0.000301,0.153,0.698,168.084,86
+28,spotify:track:614NVFo5csQqRnryl4jXs2,"Héctor ""El Father""",El Telefono,2006-01-01,0.808,0.682,2,-7.128,1,0.0963,0.171,1.42e-06,0.464,0.491,89.987,66
+29,spotify:track:5ot5K8NQtr8fCmhCxh7gmm,Alexis y Fido,Mala Suerte,2020-05-15,0.822,0.633,1,-3.897,0,0.113,0.134,0,0.177,0.689,170.016,56
+30,spotify:track:4etu1vf1o3YYNUN0z4HiPs,Guaynaa,Mera,2020-05-28,0.806,0.881,6,-5.231,1,0.252,0.178,7.74e-06,0.356,0.961,176.07,57
+31,spotify:track:2tFwfmceQa1Y6nRPhYbEtC,Jhay Cortez,CÓMO SE SIENTE - Remix,2020-05-09,0.807,0.606,3,-8.871,0,0.088,0.0946,0,0.119,0.304,92.988,85
+32,spotify:track:50ZC4PM7hywH27RcCfViau,Rauw Alejandro,Elegí (feat. Dímelo Flow),2020-03-26,0.824,0.631,0,-2.791,1,0.0809,0.237,0.000116,0.0531,0.678,171.965,84
+33,spotify:track:5zxHw6nOeQqProEH72NpPk,Nobeat,Perreo Sano,2020-04-24,0.521,0.429,10,-11.669,1,0.29,0.31,0,0.0622,0.746,162.817,47
+34,spotify:track:1Adwhpmwhz1CSi7E7QTwIC,Sech,Oficial,2020-05-21,0.838,0.782,1,-2.723,0,0.147,0.262,0,0.194,0.772,89.952,62
+35,spotify:track:2vMixEB7N64RMHYaH9w3LG,Durako,Prende (Remix),2020-04-20,0.836,0.664,4,-7.486,0,0.317,0.0352,4.14e-06,0.109,0.861,173.938,48
+36,spotify:track:6ksWMnPcHNyNoNf3y1BQCO,Daddy Yankee,Noche De Entierro,2006-09-25,0.868,0.764,4,-6.574,0,0.167,0.119,0.00143,0.0918,0.397,96.994,67
+37,spotify:track:31bsf9JZWITAir5Uzjtsp5,Feid,PERREOXOXO,2020-04-23,0.838,0.799,2,-4.957,1,0.121,0.208,2.25e-05,0.0939,0.912,95.03,50
+38,spotify:track:37eGbhE1xVFSvcKkqGb6i1,Sean Paul,Contra La Pared,2019-03-14,0.828,0.588,2,-7.14,1,0.118,0.0156,0,0.124,0.598,94.052,72
+39,spotify:track:4B2kFp1ulVz1FgwVYSShoj,Ankhal,Perreo Intenso,2020-04-17,0.747,0.95,4,-2.946,0,0.263,0.0417,1.72e-06,0.0875,0.689,183.912,65
+40,spotify:track:08aYFNUTIOMGq93e2VSArQ,Rauw Alejandro,Que Le De,2019-01-25,0.77,0.75,0,-2.715,1,0.0785,0.19,0,0.0618,0.609,99.997,66
+41,spotify:track:3mr13zNWprAzYYY0RinBCp,Tainy,MERA (with Dalex & Álvaro Díaz),2020-01-17,0.539,0.685,2,-7.26,0,0.126,0.0115,4.82e-06,0.317,0.298,194.114,61
+42,spotify:track:1Ej96GIBCTvgH7tNX1r3qr,Sech,Otro Trago,2019-04-19,0.746,0.7,0,-4.669,1,0.341,0.136,0.000159,0.11,0.619,176.044,76
+43,spotify:track:36YJZ6rpApeSBHZ3KMi3hg,Cauty,El Perreo Intenso,2019-08-02,0.747,0.79,1,-4.177,1,0.245,0.108,4.61e-05,0.162,0.813,175.951,50
+44,spotify:track:63c2jMnVyf8dtnbaQK910d,Kidd Keo,Serpiente Veneno (feat. Ele A El Dominio),2019-04-26,0.918,0.527,1,-6.733,1,0.276,0.108,8.62e-05,0.0549,0.553,99.973,63
+45,spotify:track:0SqqAgdovOE24BzxIClpjw,Bad Bunny,Yo Perreo Sola,2020-02-28,0.86,0.758,11,-5.16,1,0.0695,0.021,6.54e-05,0.344,0.453,97.014,85
+46,spotify:track:0hdYSzEWKyKHnfhGoVFSGM,Wisin & Yandel,Ahora Es,2013-01-01,0.824,0.793,11,-5.516,0,0.112,0.11,0,0.448,0.729,96.008,53
+47,spotify:track:10cuEFxGFk2fh874O9KfNc,Mariah Angeliq,Taxi,2020-01-30,0.725,0.807,7,-3.889,0,0.138,0.0539,0,0.19,0.695,180.008,33
+48,spotify:track:1ndyl3wJCFs872XZ3ztPk6,Justin Quiles,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix",2019-09-06,0.743,0.709,3,-3.922,0,0.0879,0.0451,5.18e-06,0.0809,0.831,170.001,77
+49,spotify:track:5sXWTlAn5ZKDCoS0uP4Y1E,Plan B,Candy,2014-12-09,0.897,0.865,11,-3.765,0,0.118,0.246,0,0.385,0.572,96.007,0
+50,spotify:track:69Ej1xrGjOcHvIMtMKxK0G,Don Omar,Dile,2003-01-01,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,75
+51,spotify:track:6bbHD9AvnyiPK8s9hOZfd0,Daddy Yankee,"Lo Que Paso, Paso",2004-07-13,0.824,0.754,8,-6.418,0,0.0377,0.114,0,0.368,0.831,97.002,0
+52,spotify:track:5b5Qmt9Q99fPFCl4xFjOQ2,Alexis y Fido,Me Quiere Besar,2006,0.787,0.818,1,-5.471,1,0.0725,0.137,0,0.231,0.817,95.038,0
+53,spotify:track:2qtSblErXSxcloVCE1feG7,Dímelo Flow,Pirueta,2020-04-24,0.796,0.849,2,-3.841,1,0.071,0.0457,0,0.155,0.784,81.025,10
+54,spotify:track:2TkQBNls3vXKGpe3G4HSi2,Urbøi,Para Lisa,2020-04-17,0.758,0.905,9,-3.143,1,0.288,0.574,0.000116,0.222,0.81,179.969,58
+55,spotify:track:3J4SOaPJ939LA5tQXUIgE8,Alex Rose,"Mala (with Alex Rose, Dayme y El High, Brray)",2020-03-27,0.876,0.525,6,-6.559,1,0.276,0.0128,7.4e-05,0.147,0.835,89.973,52
+56,spotify:track:2hsA9YWuF3C9Gosi4dpjJN,J Balvin,Negro,2020-03-19,0.795,0.911,0,-2.228,1,0.0875,0.0157,0.206,0.131,0.8,164.081,75
+57,spotify:track:3DlM7Wmirw96FVBMPLeaSD,Guaynaa,Rompe Rodillas,2020-02-28,0.778,0.651,6,-8.006,0,0.0508,0.132,0,0.0305,0.951,91.962,62
+58,spotify:track:2DEZmgHKAvm41k4J3R2E9Y,Bad Bunny,Safaera,2020-02-28,0.607,0.829,2,-4.074,1,0.379,0.0103,0,0.107,0.685,96.172,85
+59,spotify:track:2w8SKQCnT2YQK1qCqKl2uW,Lenny Tavárez,La Pared 360,2020-02-06,0.777,0.656,2,-5.823,0,0.158,0.248,2.06e-06,0.139,0.833,168.103,71
+60,spotify:track:6k2evQXcf7n9Lbc7V5XkOX,DJ Pedro Fuentes,Rompelo,2018-10-17,0.891,0.815,7,-6.326,1,0.116,0.0328,4.44e-06,0.293,0.838,94.982,66
+61,spotify:track:0PabDDMMzwmn9cfJsfes7W,Wisin & Yandel,Chica Bombastic,2019-10-18,0.777,0.754,8,-3.392,1,0.185,0.0384,0,0.0393,0.78,171.992,62
+62,spotify:track:3o7TK4inMYzJC3ZMJCWsRC,Dimitri Vegas & Like Mike,Boomshakalaka - Dimitri Vegas & Like Mike vs. Afro Bros Radio Mix,2019-11-29,0.752,0.82,1,-2.976,1,0.0461,0.0134,0.000804,0.0692,0.822,95.987,63
+63,spotify:track:4xvTPuwHaXoDM3p0QcY7bH,DJ Luian,Música,2019-12-04,0.788,0.82,1,-4.346,0,0.169,0.22,0.000203,0.0799,0.854,177.927,63
+64,spotify:track:0qZ7oronoocHdFDKGBdgLQ,Zion & Lennox,Sistema,2019-12-06,0.744,0.835,2,-3.356,1,0.156,0.0434,0,0.0911,0.736,173.95,56
+65,spotify:track:5YrjfKuFd0pMmYTGeRDV6X,Noriel,Piropo,2019-10-25,0.866,0.747,9,-5.748,1,0.0725,0.122,0.0218,0.0403,0.772,93.984,67
+66,spotify:track:4j4w4CXm6BSr0s25wAWrrX,Bad Bunny,Bichiyal,2020-02-28,0.737,0.766,10,-4.242,0,0.0458,0.31,6.63e-06,0.114,0.662,93.956,78
+67,spotify:track:6RyuoOJXNzlVWpfC5xQyeI,Omar Montes,Alocao (With Bad Gyal),2019-10-24,0.673,0.752,11,-4.705,0,0.0567,0.214,1.53e-06,0.106,0.699,178.005,68
+68,spotify:track:7fTsw0IKbbPDN19keS32tF,Jhay Cortez,Easy,2019-05-24,0.853,0.777,1,-4.023,0,0.0684,0.101,0.000615,0.332,0.547,94.031,60
+69,spotify:track:2uGyZNHyMNFhB8iM107qb4,Cosculluela,Dime A Ver,2019-08-23,0.741,0.783,1,-3.287,0,0.395,0.278,0,0.112,0.541,180.125,57
+70,spotify:track:3XsqFFCOn6oPKt4GCod2wP,Sebastian Yatra,Mañana No Hay Clase (24/7),2019-10-24,0.779,0.728,2,-2.586,1,0.187,0.0191,0,0.266,0.824,179.971,56
+71,spotify:track:3YLBCabWy4jiqtMnTeSnz1,El Coyote The Show,No Le Bajes,2019-10-18,0.799,0.86,10,-3.471,0,0.0919,0.102,0,0.0979,0.81,93.985,48
+72,spotify:track:5UVa8Qqb9L1dVxl3jKQ5J1,Guaynaa,Chicharrón,2019-08-16,0.734,0.789,10,-4.305,0,0.454,0.445,9.06e-05,0.498,0.811,76.182,64
+73,spotify:track:2Zl9S0KGB7VkqQMJgHBQXN,Rvfv,Mirándote,2019-06-18,0.689,0.739,0,-5.566,1,0.112,0.236,0.000147,0.111,0.473,106.447,0
+74,spotify:track:0atfY1ew83Ql9nNnJiD2t5,J Balvin,Bonita,2017-06-02,0.775,0.867,5,-1.582,0,0.0414,0.0132,0.00684,0.278,0.869,96.038,71
+75,spotify:track:0JOUrhZGMCx3lk9VosAQWl,Ozuna,El Desorden,2017-11-17,0.838,0.81,9,-3.175,0,0.0891,0.22,1.31e-05,0.0817,0.889,164.04,62
+76,spotify:track:74eN3ZNL7krJw1BIcjA5pc,Jory Boy,Detras De Ti (Remix) [feat. Ozuna],2016-12-02,0.77,0.724,10,-4.801,0,0.154,0.0639,1.87e-05,0.3,0.817,172.006,44
+77,spotify:track:4u9dZ2VNm4T1lyX88JqIY0,DJ Yayo,Ella Quiere Hmm Haa Hmm,2016-08-16,0.847,0.839,1,-2.313,1,0.0537,0.0234,0.000389,0.0829,0.378,99.981,0
+78,spotify:track:79zvVrn65ksbiGQxrtV4I5,Don Omar,Guaya Guaya,2015-06-16,0.788,0.873,7,-2.322,1,0.117,0.00607,0.00052,0.0908,0.703,91.981,67
+79,spotify:track:1xrbyp16GiuTEttWGqNQE6,Sky,Juraste,2017-11-25,0.64,0.77,5,-3.876,1,0.196,0.153,0,0.121,0.797,82.1,0
+80,spotify:track:6ELe1Do1bYtaCtLqjYTglW,Sebastian Yatra,SUTRA,2017-10-13,0.747,0.732,9,-3.24,1,0.145,0.0471,0,0.159,0.887,180.112,56

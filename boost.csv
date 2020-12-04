@@ -1,0 +1,77 @@
+Index,Track URI,Artist Name,Track Name,Release Date,Danceability,Energy,Key,Loudness,Mode,Speechiness,Accousticness,Instrumentalness,Liveness,Valence,Tempo,popularity
+1,spotify:track:140XpWSdJ0jZEbLj9iVnPA,Sam Feldt,The Best Days (feat. Tabitha),2020-11-20,0.667,0.827,11,-5.631,1,0.0368,0.0863,0,0.0565,0.573,107.95,65
+2,spotify:track:4Lt6GXGzYsa1tgkv3nGSTm,Jason Derulo,Love Not War (The Tampa Beat),2020-11-20,0.738,0.85,8,-3.049,1,0.0642,0.105,0,0.23,0.865,98.013,73
+3,spotify:track:5l0nX3AhmmF717aKSs8qSH,Miley Cyrus,Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks),2020-11-06,0.681,0.737,4,-5.246,0,0.0384,0.0291,7.16e-06,0.0856,0.278,109.95,76
+4,spotify:track:1jgu8MFTEGdL1wjw9gZj5y,Tones And I,Fly Away,2020-11-13,0.805,0.515,4,-6.201,1,0.0915,0.223,0,0.238,0.488,124.969,64
+5,spotify:track:6FuGJB290AQMAHTfjOYVaK,24kGoldn,"Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",2020-11-06,0.721,0.745,7,-3.508,0,0.0366,0.151,1.24e-06,0.372,0.699,90.988,86
+6,spotify:track:6ft4hAq6yde8jPZY2i5zLr,MEDUZA,Paradise (feat. Dermot Kennedy),2020-10-30,0.632,0.595,8,-7.644,0,0.0401,0.0689,0,0.209,0.435,124.114,86
+7,spotify:track:5KCbr5ndeby4y4ggthdiAb,Shawn Mendes,Wonder,2020-10-02,0.333,0.637,1,-4.904,0,0.0581,0.131,1.8e-05,0.149,0.132,139.898,92
+8,spotify:track:1SySkCqhEG6Z68o2n07Bsr,The Weeknd,In Your Eyes (feat. Kenny G) - Remix,2020-10-16,0.606,0.786,7,-3.854,0,0.0366,0.00229,9.46e-05,0.0725,0.525,99.969,74
+9,spotify:track:0ofHAoxe9vBkTCp2UQIavz,Fleetwood Mac,Dreams - 2004 Remaster,1977-02-04,0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151,89
+10,spotify:track:2MbgQKWhoii8bqsMBWWWgA,Sia,Courage to Change,2020-09-24,0.307,0.606,11,-5.567,0,0.0347,0.0927,0,0.357,0.11,78.828,78
+11,spotify:track:1lwvJQGhdq6Kyr4BBquf23,Bastille,survivin',2020-09-22,0.787,0.78,7,-5.023,1,0.129,0.25,0,0.0908,0.68,95.035,74
+12,spotify:track:1fah1uAs7HeTYDlNftKr3K,Ritt Momney,Put Your Records On,2020-04-24,0.399,0.492,6,-10.777,0,0.0538,0.058,0.00101,0.11,0.159,91.066,61
+13,spotify:track:6Vgtvd7I5yopJdBuxqjBd2,Joji,Your Man,2020-09-24,0.785,0.818,7,-8.711,1,0.099,0.624,0.149,0.149,0.0503,117.98,78
+14,spotify:track:0zzVTGyRrWpQu8Fr28NRAv,Marshmello,OK Not To Be OK,2020-09-10,0.743,0.837,1,-5.025,0,0.0649,0.0172,0,0.0743,0.263,103.072,84
+15,spotify:track:5dn6QANKbf76pANGjMBida,MAX,Blueberry Eyes (feat. SUGA of BTS),2020-09-15,0.746,0.611,0,-7.034,0,0.101,0.454,0.000922,0.133,0.411,149.967,84
+16,spotify:track:5u1n1kITHCxxp8twBcZxWy,Justin Bieber,Holy (feat. Chance The Rapper),2020-09-18,0.673,0.704,6,-8.056,1,0.36,0.196,0,0.0898,0.372,86.919,95
+17,spotify:track:0DmAvNCAK08oCi7miSZUIY,Sigala,Lasting Lover,2020-09-04,0.676,0.786,1,-4.529,1,0.0478,0.197,0,0.0943,0.483,125.983,83
+18,spotify:track:06kxa3al7bUqRRo5nAFduZ,ILLENIUM,Nightlight,2020-08-28,0.494,0.651,11,-4.127,0,0.0384,0.0819,0,0.104,0.162,149.979,76
+19,spotify:track:44l9nnCVvOQBbWG6tDViKl,Lukas Graham,Share That Love (feat. G-Eazy),2020-08-21,0.715,0.658,11,-4.304,0,0.106,0.162,0,0.0742,0.795,158.024,74
+20,spotify:track:4rVW6XqAsSaf5vOwc8FREW,John Legend,Wild (feat. Gary Clark Jr.),2020-06-19,0.557,0.585,8,-6.201,1,0.0431,0.036,0,0.176,0.305,63.392,77
+21,spotify:track:0roOLcll6SSTYZwsQFmXqP,Sabrina Carpenter,Let Me Move You - From the Netflix film Work It,2020-07-24,0.624,0.628,4,-6.582,0,0.0408,0.0112,0.0191,0.0814,0.772,114.556,78
+22,spotify:track:0v1x6rN6JHRapa03JElljE,BTS,Dynamite,2020-08-21,0.746,0.765,6,-4.41,0,0.0993,0.0112,0,0.0936,0.737,114.044,65
+23,spotify:track:2HvtedoEeymVWrBPyAMNwZ,MisterWives,SUPERBLOOM,2020-07-24,0.558,0.889,8,-3.945,1,0.102,0.191,0.000387,0.328,0.716,170.102,75
+24,spotify:track:3jjujdWJ72nww5eGnfs2E7,Harry Styles,Adore You,2019-12-13,0.676,0.771,8,-3.675,1,0.0483,0.0237,7e-06,0.102,0.569,99.048,87
+25,spotify:track:2GiJYvgVaD2HtM8GqD9EgQ,BØRNS,Electric Love,2015-10-16,0.611,0.797,6,-7.627,0,0.0533,0.00543,0.00137,0.26,0.518,120.041,87
+26,spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,Sam Smith,Dancing With A Stranger (with Normani),2019-01-11,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,83
+27,spotify:track:59qrUpoplZxbIZxk6X0Bm3,Jason Derulo,Take You Dancing,2020-07-22,0.789,0.711,2,-4.248,1,0.041,0.0332,0,0.0876,0.753,112.985,92
+28,spotify:track:6cx06DFPPHchuUAcTxznu9,Joel Corry,Head & Heart (feat. MNEK),2020-07-03,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,94
+29,spotify:track:5f1joOtoMeyppIcJGZQvqJ,Kane Brown,Be Like That - feat. Swae Lee & Khalid,2020-07-10,0.727,0.626,7,-8.415,1,0.0726,0.0469,2.58e-05,0.126,0.322,86.97,86
+30,spotify:track:2D0dj3hVkRQJCp63cxCPEx,Curtis Waters,Stunnin' (feat. Harm Franklin),2020-05-19,0.885,0.685,11,-6.429,0,0.0627,0.33,0,0.148,0.937,99.954,81
+31,spotify:track:0l4AReW2LuX0yStPfgQgSR,Dermot Kennedy,Giants,2020-06-24,0.579,0.839,8,-5.409,0,0.0703,0.0145,3.04e-05,0.201,0.589,158.141,81
+32,spotify:track:6JqYhSdTE4WbQrMXxPH5cD,JAWNY,Honeypie,2019-04-25,0.742,0.678,5,-4.605,0,0.192,0.0698,0,0.151,0.927,115.05,2
+33,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,2020-03-20,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,96
+34,spotify:track:6wXgnhpmOPEJ7cUweSyy2B,Diplo,Dance with Me (feat. Thomas Rhett & Young Thug),2020-05-27,0.73,0.792,6,-5.33,0,0.13,0.0264,0,0.101,0.745,99.039,76
+35,spotify:track:1b3nlcP6hogIzYRVK2Ui7K,Kodaline,Wherever You Are,2020-01-10,0.514,0.612,4,-5.981,1,0.0298,0.142,0,0.0868,0.342,125.99,72
+36,spotify:track:24ySl2hOPGCDcxBxFIqWBu,Lady Gaga,Rain On Me (with Ariana Grande),2020-05-22,0.672,0.855,9,-3.764,1,0.0397,0.021,0,0.323,0.646,123.056,85
+37,spotify:track:5id3Rqn7SPj1LX4FfY4nGz,Sia,Together,2020-05-20,0.521,0.877,7,-5.444,1,0.0683,0.0132,0.0806,0.0929,0.199,180.007,81
+38,spotify:track:4uqh9bualXNHXXwO2wPorc,Katy Perry,Daisies,2020-05-15,0.639,0.546,1,-5.382,1,0.0407,0.0837,0,0.122,0.149,122.179,79
+39,spotify:track:7xbWAw3LMgRMn4omR5yVn3,Kygo,Lose Somebody,2020-05-15,0.58,0.586,1,-6.883,1,0.0357,0.344,0,0.0755,0.507,147.988,82
+40,spotify:track:2Yer0p7uB2lVBUAtANuuQp,Social House,Magic In The Hamptons (feat. Lil Yachty),2018-06-08,0.769,0.479,1,-5.339,1,0.0385,0.66,0,0.0914,0.803,96.051,80
+41,spotify:track:3Z8FwOEN59mRMxDCtb8N0A,Marshmello,Be Kind (with Halsey),2020-05-01,0.63,0.633,4,-7.088,1,0.0457,0.00776,0,0.0541,0.452,93.995,86
+42,spotify:track:7k6tAZp4m93oswrPqSfBbc,Thomas Rhett,On Me (feat. Ava Max),2020-05-15,0.548,0.721,8,-4.466,1,0.0472,0.0119,0,0.216,0.594,177.918,75
+43,spotify:track:5iFwAOB2TFkPJk8sMlxP8g,PUBLIC,Make You Mine,2019-08-09,0.606,0.799,9,-4.452,1,0.0261,0.0128,0,0.15,0.638,103.014,82
+44,spotify:track:4ZTTUAjJCd4NMZmIU7RB4c,Alesso,Midnight (feat. Liam Payne),2020-04-08,0.587,0.648,11,-6.927,0,0.0439,0.0561,0,0.115,0.281,144.028,79
+45,spotify:track:62aP9fBQKYKxi7PDXwcUAS,Surf Mesa,ily (i love you baby) (feat. Emilee),2019-11-26,0.674,0.774,11,-7.567,0,0.0892,0.0686,0.00188,0.393,0.33,112.05,88
+46,spotify:track:7kQkmyoHCEqwe7QwDbkSXM,FINNEAS,Let's Fall in Love for the Night,2018-10-19,0.737,0.408,5,-7.941,1,0.104,0.802,0,0.171,0.374,127.921,79
+47,spotify:track:5Gj1wG8b12VQdEd3hUuSwo,Kygo,Freedom,2020-04-17,0.715,0.635,7,-6.591,1,0.0791,0.127,0,0.0862,0.39,112.887,77
+48,spotify:track:2K0r5GD5zYlEMx2M7ZMcqG,OneRepublic,Better Days,2020-03-25,0.626,0.726,5,-5.015,1,0.0376,0.235,0,0.304,0.257,89.132,77
+49,spotify:track:28Tv8zltFDr5wBCG3Pfky4,Hailee Steinfeld,I Love You's,2020-03-26,0.682,0.783,8,-4.997,1,0.18,0.0262,0,0.206,0.323,106.899,31
+50,spotify:track:5SspaMrPfWyRCS0GpjIxa6,R3HAB,Good Example (with Andy Grammer),2020-03-27,0.456,0.496,1,-6.986,1,0.0743,0.427,0,0.134,0.45,90.552,72
+51,spotify:track:7rpNuuoMbid56XkDsx2FjE,Niall Horan,Black And White,2020-03-13,0.443,0.582,2,-6.02,1,0.0482,0.0301,0,0.127,0.239,147.589,79
+52,spotify:track:20d27F17AZOxTJOEHAVK2Y,John Legend,Conversations in the Dark - John Legend vs. David Guetta,2020-02-14,0.572,0.742,8,-4.589,0,0.0347,0.245,0,0.108,0.376,127.19,74
+53,spotify:track:5Pgq1Gfeth2CuUhyCXwlfC,Surfaces,Take It Easy,2020-02-28,0.765,0.689,6,-5.616,1,0.0456,0.236,7.39e-06,0.114,0.497,144.958,74
+54,spotify:track:0TrPqhAMoaKUFLR7iYDokf,Khalid,Know Your Worth,2020-02-04,0.79,0.694,9,-7.726,0,0.0708,0.145,0.00252,0.281,0.508,103.007,81
+55,spotify:track:0ycFQvBTfuo1LCdG0HhszL,Lauv,Tattoos Together,2020-01-16,0.862,0.4,4,-7.486,1,0.0736,0.00575,7.49e-06,0.123,0.596,122.963,4
+56,spotify:track:4wNIkl5XGiAACjFBlDWuSd,Jonas Brothers,What A Man Gotta Do,2020-01-17,0.852,0.698,9,-7.206,1,0.0629,0.00839,1.03e-06,0.0773,0.324,113.039,82
+57,spotify:track:1e9oZCCiX42nJl0AcqriVo,Harry Styles,Watermelon Sugar,2019-11-17,0.548,0.816,0,-4.209,1,0.0465,0.122,0,0.335,0.557,95.39,82
+58,spotify:track:1yTTMcUhL7rtz08Dsgb7Qb,Maren Morris,The Bones - with Hozier,2019-10-04,0.561,0.597,11,-6.0,0,0.0405,0.286,0,0.0979,0.355,76.826,77
+59,spotify:track:3cphb8kdsjElYR7r5icK3H,Niall Horan,Nice To Meet Ya,2019-10-04,0.591,0.841,4,-4.351,0,0.0304,0.0119,0,0.395,0.392,109.034,76
+60,spotify:track:70YPzqSEwJvAIQ6nMs1cjY,ILLENIUM,In Your Arms (with X Ambassadors),2019-08-16,0.404,0.806,2,-4.75,1,0.0496,0.198,0,0.114,0.112,148.036,75
+61,spotify:track:1Cv1YLb4q0RzL6pybtaMLo,Surfaces,Sunday Best,2019-01-06,0.878,0.525,5,-6.832,1,0.0578,0.183,0,0.0714,0.694,112.022,85
+62,spotify:track:1mpD5Q8IM32I4bF6eCpU74,Khalid,Up All Night,2019-11-14,0.665,0.712,1,-7.536,1,0.0527,0.00103,0.00342,0.102,0.669,93.989,77
+63,spotify:track:2b8fOow8UzyDFAE27YhOZM,Maroon 5,Memories,2019-09-20,0.764,0.32,11,-7.209,1,0.0546,0.837,0,0.0822,0.575,91.019,89
+64,spotify:track:4fwo6czG5nvOQMzhOto1ya,Diplo,Lonely,2019-09-27,0.738,0.717,1,-5.121,1,0.0573,0.062,0,0.205,0.5,98.047,12
+65,spotify:track:02VHspkXhhH1QCInRWWIfr,Drax Project,Catching Feelings (feat. Six60),2019-09-04,0.397,0.524,3,-5.846,1,0.103,0.607,0,0.157,0.343,175.562,63
+66,spotify:track:6S1IgeHxxOT9qVWnmsdGxe,James Arthur,Treehouse (feat. Shotty Horroh),2019-09-06,0.691,0.733,6,-5.02,1,0.0368,0.184,0,0.341,0.797,153.976,74
+67,spotify:track:4VginDwYTP2eaHJzO0QMjG,Post Malone,Circles,2019-08-30,0.704,0.758,0,-3.537,1,0.0402,0.233,0.00144,0.0924,0.534,120.003,2
+68,spotify:track:2grAr8pWMuLWn8ZYEE9wDV,Tones And I,Never Seen the Rain,2019-07-15,0.485,0.461,9,-5.646,1,0.0444,0.44,0,0.232,0.324,87.009,66
+69,spotify:track:7jaDLcrbilPxoH4mIcYyB3,Andy Grammer,I Found You,2019-07-12,0.728,0.701,1,-6.58,1,0.0406,0.0945,2.08e-05,0.181,0.413,137.97,0
+70,spotify:track:6oJ6le65B3SEqPwMRNXWjY,Kygo,Higher Love,2019-06-28,0.693,0.678,8,-7.159,1,0.0324,0.0154,6.05e-06,0.101,0.404,103.952,82
+71,spotify:track:05CwHjIk71RXVU40boRMnR,The Chainsmokers,Call You Mine,2019-05-31,0.591,0.702,7,-5.59,1,0.0289,0.225,0,0.414,0.501,104.003,6
+72,spotify:track:2kAIpGWnlFLQh48iut6Zzq,Khalid,Free Spirit,2019-04-05,0.627,0.446,2,-9.477,0,0.0332,0.308,0.00077,0.111,0.11,139.994,75
+73,spotify:track:4Gcv5SsxnQWpmOnUI19EJk,Gryffin,All You Need To Know (feat. Calle Lehmann),2019-03-27,0.513,0.788,0,-4.629,1,0.0364,0.00968,0,0.11,0.234,139.987,75
+74,spotify:track:2qfEcCkEo5NscA9GL7ER72,Martin Jensen,Nobody,2019-03-01,0.673,0.687,6,-5.295,0,0.0623,0.269,0,0.181,0.524,96.964,75
+75,spotify:track:1tNJrcVe6gwLEiZCtprs1u,Dominic Fike,3 Nights,2018-10-16,0.815,0.518,7,-6.594,0,0.0897,0.223,0,0.104,0.877,151.891,80
+76,spotify:track:7nDYw1nNAW4dAqgmW2W3tq,Hozier,Almost (Sweet Music),2019-01-16,0.384,0.689,7,-5.598,1,0.197,0.0217,2.24e-06,0.204,0.702,179.823,4
